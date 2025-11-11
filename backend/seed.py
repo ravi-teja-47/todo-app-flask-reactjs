@@ -1,3 +1,5 @@
+# Modified by Ravi Teja for personal learning and demo purpose
+
 from flaskr import create_app
 from flaskr.models.tag_model import TagModel
 from flaskr.db import db
